@@ -1,0 +1,348 @@
+{
+   "HMHotel": {
+        "calle": "Blvd. Miguel de la Madrid Hurtado",
+        "numero": "1028",
+        "colonia": "Playa Azul",
+        "municipio": "Manzanillo",
+        "ciudad": "Colima",
+        "numero_habitaciones": "47",
+        "contacto": "hmhoteles@hotmail.com",
+        "telefonos" : [],
+        "descripcion": "Blvd. Miguel de la Madrid Hurtado Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+        "latitud": "",
+        "longitud": "",
+        "icon": "hmhotel/3.jpg",
+        "galeria": [
+                    "hmhotel/1.jpg",
+                    "hmhotel/2.jpg",
+                    "hmhotel/3.jpg",
+                    "hmhotel/5.jpg",
+                    "hmhotel/7.jpg",
+                    "hmhotel/8.jpg"
+                   ],
+        "habitaciones": {
+            "Sencilla" : {
+                    "costo" : "599",
+                    "descripcion" : "Habitación sencilla",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"                                    
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg"]
+            },
+            "Doble" : {
+                    "costo" : "699",
+                    "descripcion" : "Habitación Doble",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg"]
+            },
+            "KZ" : {
+                    "costo" : "699",
+                    "descripcion" : "Habitación KZ",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg"]
+            },
+            "Vista al Mar" : {
+                    "costo" : "799",
+                    "descripcion" : "Habitación con vista al mar",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg"]
+            },
+            "Master Suite" : {
+                    "costo" : "899",
+                    "descripcion" : "Habitación master suite",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/2.jpg"]
+            }	  
+        }
+   },
+   "Hotelito Inn": {
+        "calle": "Blvd. Miguel de la Madrid Hurtado",
+        "numero": "3181",
+        "colonia": "Playa Azul",
+        "municipio": "Manzanillo",
+        "ciudad": "Colima",
+        "numero_habitaciones": "8",
+        "contacto": "hotelitoinn@hotmail.com",
+        "telefonos" : ["(314) 3336 120"],
+        "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+        "latitud": "",
+        "longitud": "",
+        "icon": "hotelitoinn/6.jpg",
+        "galeria": [
+                    "hotelitoinn/1.jpg",
+                    "hotelitoinn/2.jpg",
+                    "hotelitoinn/3.jpg",
+                    "hotelitoinn/5.jpg",
+                    "hotelitoinn/6.jpg",
+                    "hotelitoinn/7.jpg"
+                   ],
+        "habitaciones": {
+            "Sencilla" : {
+                    "costo" : "",
+                    "descripcion" : "Habitación sencilla",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hotelitoinn/2.jpg",
+                    "imagenes" : [
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg"
+                                  ]
+            },
+            "Doble" : {
+                    "costo" : "",
+                    "descripcion" : "Habitación doble",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hotelitoinn/2.jpg",
+                    "imagenes" : [
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg"
+                                  ]
+            },
+            "KZ" : {
+                    "costo" : "",
+                    "descripcion" : "Habitación KZ",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hotelitoinn/2.jpg",
+                    "imagenes" : [
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg"
+                                  ]
+            },
+            "Vista al Mar" : {
+                    "costo" : "",
+                    "descripcion" : "Habitación con vista al mar",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hotelitoinn/2.jpg",
+                    "imagenes" : [
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg"
+                                  ]
+            },
+            "Master Suite" : {
+                    "costo" : "",
+                    "descripcion" : "Habitación master suite",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hotelitoinn/2.jpg",
+                    "imagenes" : [
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg",
+                                  "hotelitoinn/2.jpg"
+                                  ]
+            }	  
+        }
+   },
+   "Montroi Express": {
+        "calle": "Blvd. Camino Real",
+        "numero": "896",
+        "colonia": "El diezmo",
+        "municipio": "Colima",
+        "ciudad": "Colima",
+        "numero_habitaciones": "32",
+        "contacto": "gerencia_montroi@hotmail.com",
+        "telefonos" : ["(312) 3235 581"],
+        "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+        "latitud": "",
+        "longitud": "",
+        "icon": "montroi/city/1.jpg",
+        "galeria": [
+                    "montroi/express/1.jpg",
+                    "montroi/express/2.jpg",
+                    "montroi/express/3.jpg",
+                    "montroi/express/5.jpg",
+                    "montroi/express/6.jpg"
+                   ],
+        "habitaciones": {
+            "Sencilla" : {
+                    "costo" : "399",
+                    "descripcion" : "Habitación sencilla",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
+            },
+            "Doble" : {
+                    "costo" : "499",
+                    "descripcion" : "Habitación doble",
+                    "dimensiones" : "-",
+                    "servicios" : [ 
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
+            },
+            "KZ" : {
+                    "costo" : "499",
+                    "descripcion" : "Habitación KZ",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
+            },
+            "Junior Suite" : {
+                    "costo" : "599",
+                    "descripcion" : "Habitación junior suite",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
+            }	  
+        }
+   },
+   "Montroi City": {
+        "calle": "V. Carranza", 
+        "numero": "377",
+        "colonia": "Centro",
+        "municipio": "Colima",
+        "ciudad": "Colima",
+        "numero_habitaciones": "29",
+        "contacto": "montroicity@hotmail.com",
+        "telefonos" : ["(312) 1593 419"],
+        "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
+        "latitud": "",
+        "longitud": "",
+        "icon": "montroi/express/1.jpg",
+	"galeria": [
+                    "montroi/city/1.jpg",
+                    "montroi/city/2.jpg",
+                    "montroi/city/3.jpg",
+                    "montroi/city/4.jpg",
+                    "montroi/city/5.jpg"
+                   ],
+        "habitaciones": {
+            "Sencilla" : {
+                    "costo" : "330",
+                    "descripcion" : "Habitación sencilla",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+            },
+            "Doble" : {
+                    "costo" : "430",
+                    "descripcion" : "Habitación doble",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+            },
+            "KZ" : {
+                    "costo" : "430",
+                    "descripcion" : "Habitación KZ",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+            } 
+        }
+   }
+}
