@@ -11,4 +11,5 @@ application/logs/*
 nbproject
 
 /config.ini
-/assets/fuentes/*
+
+/assets/fuentes/plantilla_imagenes.psd
