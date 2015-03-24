@@ -1,11 +1,12 @@
 <?php if ( ! defined('BASEPATH')) exit('No direct script access allowed');
 
 class hmgroup extends CI_Controller {
+    private $cnfg = NULL;
     
     function __construct()
     {
         parent::__construct();
-        $cnfg = ini_cnfg::parse();        
+        $this->cnfg = ini_cnfg::parse();        
     }
     
     public function inicio(){ 
@@ -24,13 +25,13 @@ class hmgroup extends CI_Controller {
     }
     
     public function nuestro_hotel(){  
-		if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);	
+        if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);	
         $data['content'] = $this->load->view('nuestro_hotel',array('data' => $this->data->all_info()),TRUE);
         $this->load->view('master',$data);
     }
        
     public function habitaciones_y_tarifas($hotel = NULL){
-        if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);
+        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);
         if (!$hotel){        
             $data['content'] = $this->load->view('habitaciones_y_tarifas',array('data' => $this->data->all_info(),'hotel' => $hotel),TRUE);
         } else {
@@ -40,13 +41,13 @@ class hmgroup extends CI_Controller {
     }
     
     public function habitaciones_y_tarifas_detalles($hotel = NULL,$tipohabitacion = NULL){        
-		if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);
+        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);
         $data['content'] = $this->load->view('habitaciones_y_tarifas_detalles',array('data' => $this->data->detalle_habitacion($hotel, $tipohabitacion)),TRUE);
         $this->load->view('master',$data);
     }
     
     public function galeria_de_imagenes(){
-		if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);
+        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);        
         $data['content'] = $this->load->view('galeria_de_imagenes',array('data'=> $this->data->gallery_pics()),TRUE);
         $this->load->view('master',$data);
     }    
