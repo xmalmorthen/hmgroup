@@ -35,7 +35,30 @@
                     "hmhotel/22.jpg",
                     "hmhotel/23.jpg",
                     "hmhotel/24.jpg",
-                    "hmhotel/25.jpg"
+                    "hmhotel/25.jpg",
+					"hmhotel/26.jpg",
+                    "hmhotel/27.jpg",
+                    "hmhotel/28.jpg",
+                    "hmhotel/29.jpg",
+                    "hmhotel/30.jpg",
+                    "hmhotel/31.jpg",
+                    "hmhotel/32.jpg",
+                    "hmhotel/33.jpg",
+                    "hmhotel/34.jpg",
+                    "hmhotel/35.jpg",
+                    "hmhotel/36.jpg",
+                    "hmhotel/37.jpg",
+                    "hmhotel/38.jpg",
+                    "hmhotel/39.jpg",
+                    "hmhotel/40.jpg",
+					"hmhotel/41.jpg",
+                    "hmhotel/42.jpg",
+                    "hmhotel/43.jpg",
+                    "hmhotel/44.jpg",
+                    "hmhotel/45.jpg",
+                    "hmhotel/46.jpg",
+                    "hmhotel/47.jpg",
+                    "hmhotel/48.jpg"
                    ],
         "habitaciones": {
             "Sencilla" : {
@@ -49,9 +72,10 @@
                     "icon": "hmhotel/2.jpg",
                     "imagenes" : [
                                   "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg"]
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+								  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
             },
             "Doble" : {
                     "costo" : "699",
@@ -64,9 +88,10 @@
                     "icon": "hmhotel/2.jpg",
                     "imagenes" : [
                                   "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg"]
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+								  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
             },
             "KZ" : {
                     "costo" : "699",
@@ -79,9 +104,10 @@
                     "icon": "hmhotel/2.jpg",
                     "imagenes" : [
                                   "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg"]
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+								  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
             },
             "Vista al Mar" : {
                     "costo" : "799",
@@ -94,9 +120,10 @@
                     "icon": "hmhotel/2.jpg",
                     "imagenes" : [
                                   "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg"]
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+								  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
             },
             "Master Suite" : {
                     "costo" : "899",
@@ -109,9 +136,10 @@
                     "icon": "hmhotel/2.jpg",
                     "imagenes" : [
                                   "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg",
-                                  "hmhotel/2.jpg"]
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+								  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
             }	  
         }
    },
@@ -231,7 +259,7 @@
         "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",
-        "icon": "montroi/city/1.jpg",
+        "icon": "montroi/express/2.jpg",
         "galeria": [
                     "montroi/express/1.jpg",
                     "montroi/express/2.jpg",
@@ -248,13 +276,8 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/city/3.jpg",
-                    "imagenes" : [
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg"
-                                 ]
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
             },
             "Doble" : {
                     "costo" : "499",
@@ -264,13 +287,8 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/city/3.jpg",
-                    "imagenes" : [
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg"
-                                 ]
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
             },
             "KZ" : {
                     "costo" : "499",
@@ -280,13 +298,8 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/city/3.jpg",
-                    "imagenes" : [
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg"
-                                 ]
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
             },
             "Junior Suite" : {
                     "costo" : "599",
@@ -296,13 +309,8 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/city/3.jpg",
-                    "imagenes" : [
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg",
-                                  "montroi/city/3.jpg"
-                                 ]
+                    "icon": "montroi/express/2.jpg",
+                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
             }	  
         }
    },
@@ -318,7 +326,7 @@
         "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",
-        "icon": "montroi/express/1.jpg",
+        "icon": "montroi/city/3.jpg",
 	"galeria": [
                     "montroi/city/1.jpg",
                     "montroi/city/2.jpg",
@@ -335,8 +343,13 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/express/2.jpg",
-                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
             },
             "Doble" : {
                     "costo" : "430",
@@ -346,8 +359,13 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/express/2.jpg",
-                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
             },
             "KZ" : {
                     "costo" : "430",
@@ -357,8 +375,13 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "montroi/express/2.jpg",
-                    "imagenes" : ["montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg","montroi/express/2.jpg"]
+                    "icon": "montroi/city/3.jpg",
+                    "imagenes" : [
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg",
+                                  "montroi/city/3.jpg"
+                                 ]
             } 
         }
    }
