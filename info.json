@@ -62,7 +62,7 @@
                    ],
         "habitaciones": {
             "Sencilla" : {
-                    "costo" : "599",
+                    "costo" : "800",
                     "descripcion" : "Habitación sencilla",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -78,7 +78,7 @@
                                   "hmhotel/48.jpg"]
             },
             "Doble" : {
-                    "costo" : "699",
+                    "costo" : "850",
                     "descripcion" : "Habitación Doble",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -94,7 +94,7 @@
                                   "hmhotel/48.jpg"]
             },
             "KZ" : {
-                    "costo" : "699",
+                    "costo" : "850",
                     "descripcion" : "Habitación KZ",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -110,7 +110,7 @@
                                   "hmhotel/48.jpg"]
             },
             "Vista al Mar" : {
-                    "costo" : "799",
+                    "costo" : "1,190",
                     "descripcion" : "Habitación con vista al mar",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -126,7 +126,7 @@
                                   "hmhotel/48.jpg"]
             },
             "Master Suite" : {
-                    "costo" : "899",
+                    "costo" : "1,450",
                     "descripcion" : "Habitación master suite",
                     "dimensiones" : "-",
                     "servicios" : [
