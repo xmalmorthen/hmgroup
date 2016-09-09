@@ -143,7 +143,7 @@
             }	  
         }
    },
-   "Hotelito Inn": {
+   "EL HOTELITO": {
         "calle": "Blvd. Miguel de la Madrid Hurtado",
         "numero": "3181",
         "colonia": "Playa Azul",
@@ -155,14 +155,14 @@
         "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",
-        "icon": "hotelitoinn/6.jpg",
+        "icon": "hotelitoinn/11.jpg",
         "galeria": [
-                    "hotelitoinn/1.jpg",
-                    "hotelitoinn/2.jpg",
-                    "hotelitoinn/3.jpg",
-                    "hotelitoinn/5.jpg",
-                    "hotelitoinn/6.jpg",
-                    "hotelitoinn/7.jpg"
+                    "hotelitoinn/10.jpg",
+                    "hotelitoinn/11.jpg",
+                    "hotelitoinn/12.jpg",
+                    "hotelitoinn/13.jpg",
+                    "hotelitoinn/14.jpg",
+                    "hotelitoinn/15.jpg"
                    ],
         "habitaciones": {
             "Sencilla" : {
