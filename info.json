@@ -173,12 +173,12 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "hotelitoinn/2.jpg",
+                    "icon": "hotelitoinn/13.jpg",
                     "imagenes" : [
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg"
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg"
                                   ]
             },
             "Doble" : {
@@ -189,12 +189,12 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "hotelitoinn/2.jpg",
+                    "icon": "hotelitoinn/15.jpg",
                     "imagenes" : [
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg"
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg"
                                   ]
             },
             "KZ" : {
@@ -205,12 +205,12 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "hotelitoinn/2.jpg",
+                    "icon": "hotelitoinn/13.jpg",
                     "imagenes" : [
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg"
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg",
+                                  "hotelitoinn/13.jpg"
                                   ]
             },
             "Vista al Mar" : {
@@ -221,12 +221,12 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "hotelitoinn/2.jpg",
+                    "icon": "hotelitoinn/15.jpg",
                     "imagenes" : [
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg"
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg",
+                                  "hotelitoinn/15.jpg"
                                   ]
             },
             "Master Suite" : {
@@ -237,12 +237,12 @@
                                     "Tv/Cable",
                                     "A/ac"
                                   ],
-                    "icon": "hotelitoinn/2.jpg",
+                    "icon": "hotelitoinn/14.jpg",
                     "imagenes" : [
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg",
-                                  "hotelitoinn/2.jpg"
+                                  "hotelitoinn/14.jpg",
+                                  "hotelitoinn/14.jpg",
+                                  "hotelitoinn/14.jpg",
+                                  "hotelitoinn/14.jpg"
                                   ]
             }	  
         }
