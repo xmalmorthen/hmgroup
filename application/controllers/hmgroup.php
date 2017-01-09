@@ -47,8 +47,16 @@ class hmgroup extends CI_Controller {
     }
     
     public function galeria_de_imagenes(){
-        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);        
-        $data['content'] = $this->load->view('galeria_de_imagenes',array('data'=> $this->data->gallery_pics()),TRUE);
+        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);
+		
+		$tmp = array();
+		foreach ($this->data->gallery_pics() as $key => $value){
+			$tmp[$key]["gallery"] = $value;
+			$faceUrl = $this->data->hotel_info($key);				
+			$tmp[$key]["face"] = isset($faceUrl[$key]->face) ? $faceUrl[$key]->face : null;;
+		}
+
+        $data['content'] = $this->load->view('galeria_de_imagenes',array('data'=> $tmp),TRUE);		
         $this->load->view('master',$data);
     }    
     

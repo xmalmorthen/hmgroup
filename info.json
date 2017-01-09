@@ -7,7 +7,7 @@
         "ciudad": "Colima",
         "numero_habitaciones": "47",
         "contacto": "hmhoteles@hotmail.com",
-        "telefonos" : [],
+        "telefonos" : ["Of. (314) 333 7488","<br/> Wsp. (314) 101 9182" ],
         "descripcion": "Blvd. Miguel de la Madrid Hurtado Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",
@@ -141,7 +141,8 @@
 								  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             }	  
-        }
+        },
+		"face" : "https://www.facebook.com/HOTEL-HM-438990576225023/"
    },
    "EL HOTELITO": {
         "calle": "Blvd. Miguel de la Madrid Hurtado",
@@ -151,7 +152,7 @@
         "ciudad": "Colima",
         "numero_habitaciones": "8",
         "contacto": "hotelitoinn@hotmail.com",
-        "telefonos" : ["(314) 3336 120"],
+        "telefonos" : ["(314) 333 7399"],
         "descripcion": "Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",

@@ -57,3 +57,4 @@
 <script src="<?php echo base_url(PATH_TO_LIBS . "gallery/jquery.blueimp-gallery.min.js"); ?>"></script>
 <!-- custom script -->
 <script src="<?php echo base_url(PATH_TO_LIBS . "script.js"); ?>"></script>
+<script src="<?php echo base_url(PATH_TO_LIBS . "widgets.js"); ?>"></script>

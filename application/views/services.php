@@ -17,7 +17,16 @@
                         <a class="right carousel-control" href="#<?php echo strtolower(str_replace(' ','', $key)); ?>" role="button" data-slide="next"><i class="fa fa-angle-right fa-2x"></i></a>
                     </div>
                     <!-- RoomCarousel-->
-                    <div class="caption"><?php echo $key; ?><a href="<?php echo site_url('hmgroup/galeria_de_imagenes'); ?>" class="pull-right"><i class="fa fa-edit"></i></a></div>
+                    <div class="caption">
+						<?php echo $key; ?><a href="<?php echo (site_url('hmgroup/galeria_de_imagenes') . '#' . str_replace(' ','_',$key) ); ?>" class="pull-right"><i class="fa fa-edit"></i></a>
+						<br/><br/>
+						<hr/>
+						<span><b>Reservaciones</b><span>
+						<br/><br/>
+						<!-- widget -->
+							<div id="widget<?php echo str_replace(' ','_',$key); ?>"></div>
+						<!-- widget -->
+					</div>					
                 </div>
             <?php } ?>
         </div>

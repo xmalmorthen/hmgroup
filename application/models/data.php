@@ -24,7 +24,7 @@ class data extends CI_Model{
     public function hotel_info($hotel){
         $data = NULL;
         foreach ($this->info as $key => $value) {
-            if (strtolower(str_replace(' ','', $key)) == $hotel){
+            if (strtolower(str_replace(' ','', $key)) == strtolower($hotel)){
                 $data[$key] = $value;
                 break;
             }
