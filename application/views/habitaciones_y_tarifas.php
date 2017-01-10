@@ -8,6 +8,19 @@
     <div class="container">
         <?php foreach ($data as $key => $value) { ?>
             <h2><?php echo $key; ?></h2>
+            
+            <br/>
+            <h3><b>Reservaciones</b></h3>
+            <br/><br/>
+            <div class="row">
+                <div class="col-sm-8 col-md-8 col-md-offset-2">
+                <!-- widget -->
+                        <div id="widget<?php echo str_replace(' ','_',$key); ?>"></div>
+                <!-- widget -->
+                </div>
+            </div>
+            <br/><br/>
+            
             <div class="row">
                 <?php foreach ($value->habitaciones as $habitacion => $valor) { ?>
                     <div class="col-sm-4 wowload fadeInUp">

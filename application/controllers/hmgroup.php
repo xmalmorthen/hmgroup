@@ -25,7 +25,7 @@ class hmgroup extends CI_Controller {
     }
     
     public function nuestro_hotel(){  
-        if ($cnfg->general['environment'] != 'development') $this->output->cache(1440);	
+        if ($this->cnfg->general['environment'] != 'development') $this->output->cache(1440);	
         $data['content'] = $this->load->view('nuestro_hotel',array('data' => $this->data->all_info()),TRUE);
         $this->load->view('master',$data);
     }

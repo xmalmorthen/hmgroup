@@ -14,9 +14,9 @@
 				</div>
 			</div>
 			<?php if ($value['face'] !== null) {?>
-				<div style="text-align-last: right;">
-					<span style="font-size: 1.7em;">Visita nuestra página de FaceBook</span>&nbsp;&nbsp; <a target="_blank" href="<?php echo $value['face']; ?>"><i class="fa fa-facebook-square fa-4x" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
-				</div>
+                            <div style="text-align-last: right;">
+                                    <span style="font-size: 1.7em;">Visita nuestra página de FaceBook</span>&nbsp;&nbsp; <a target="_blank" href="<?php echo $value['face']; ?>"><i class="fa fa-facebook-square fa-4x" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i></a>
+                            </div>
 			<?php } ?>
 			<br/>
 			<br/>

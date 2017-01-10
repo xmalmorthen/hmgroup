@@ -9,7 +9,7 @@
     <div class="container">
         <br/><br/><br/>
         <div class="row">            
-            <?php foreach ($data as $key => $value) {?>
+            <?php foreach ($data as $key => $value) { ?>
                 <div class="col-sm-3" style="border-left: 1px solid #EAEAEA; border-right: 1px solid #EAEAEA;">
                     <a href="<?php echo site_url("hmgroup/habitaciones_y_tarifas/" . strtolower(str_replace(' ','', $key))); ?>"><img class="icon bk1" src="<?php echo base_url(PATH_TO_GALLERY . $value->icon); ?>"></a>
                     <h2><?php echo $key; ?></h2>
@@ -33,9 +33,14 @@
                             ?>
                         </span>
                     </div>
-                    <div class="pull-right">
+                    <div class="pull-left">
                         <a href="<?php echo site_url("hmgroup/habitaciones_y_tarifas/" . strtolower(str_replace(' ','', $key))); ?>" class="btn btn-default">Habitaciones</a>
                     </div>
+                    <?php if (isset($value->face)) {?>
+                    <a class="pull-right" target="_blank" href="<?php echo $value->face; ?>">
+                        <i class="fa fa-facebook-square fa-2x" data-toggle="tooltip" data-placement="top" data-original-title="facebook"></i>
+                    </a>
+                    <?php } ?>
                 </div>
             <?php } ?>
         </div>
