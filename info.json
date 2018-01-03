@@ -7,7 +7,7 @@
         "ciudad": "Colima",
         "numero_habitaciones": "47",
         "contacto": "hmhoteles@hotmail.com",
-        "telefonos" : ["Of. (314) 333 7488","<br/> Wsp. (314) 101 9182" ],
+        "telefonos" : ["Of. (314) 333 7488","<br/> Of. (314) 333 7295","<br/> Wsp. (314) 101 9182" ],
         "descripcion": "Blvd. Miguel de la Madrid Hurtado Lorem ipsum dolor sit amet, consectetuer adipiscing elit, sed diam nonummy nibh euismod tincidunt ut laoreet dolore magna aliquam erat volutpat",
         "latitud": "",
         "longitud": "",
@@ -142,7 +142,7 @@
                                   "hmhotel/48.jpg"]
             }	  
         },
-		"face" : "https://www.facebook.com/HOTEL-HM-438990576225023/"
+        "face" : "https://www.facebook.com/HOTEL-HM-438990576225023/"
    },
    "EL HOTELITO": {
         "calle": "Blvd. Miguel de la Madrid Hurtado",
@@ -246,7 +246,8 @@
                                   "hotelitoinn/14.jpg"
                                   ]
             }	  
-        }
+        },
+        "face" : "https://www.facebook.com/El-Hotelito-Boutique-Galeria-1107255015995679/"
    },
    "Montroi Express": {
         "calle": "Blvd. Camino Real",
@@ -384,6 +385,7 @@
                                   "montroi/city/3.jpg"
                                  ]
             } 
-        }
+        },
+        "face" : "https://www.facebook.com/montroicity/"
    }
 }
