@@ -36,7 +36,7 @@
                     "hmhotel/23.jpg",
                     "hmhotel/24.jpg",
                     "hmhotel/25.jpg",
-					"hmhotel/26.jpg",
+                    "hmhotel/26.jpg",
                     "hmhotel/27.jpg",
                     "hmhotel/28.jpg",
                     "hmhotel/29.jpg",
@@ -51,7 +51,7 @@
                     "hmhotel/38.jpg",
                     "hmhotel/39.jpg",
                     "hmhotel/40.jpg",
-					"hmhotel/41.jpg",
+                    "hmhotel/41.jpg",
                     "hmhotel/42.jpg",
                     "hmhotel/43.jpg",
                     "hmhotel/44.jpg",
@@ -74,12 +74,12 @@
                                   "hmhotel/2.jpg",
                                   "hmhotel/35.jpg",
                                   "hmhotel/47.jpg",
-								  "hmhotel/44.jpg",
+                                  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             },
-            "Doble" : {
+            "Doble, cama individual" : {
                     "costo" : "850",
-                    "descripcion" : "Habitación Doble",
+                    "descripcion" : "Habitación doble cama individual",
                     "dimensiones" : "-",
                     "servicios" : [
                                     "Tv/Cable",
@@ -90,12 +90,12 @@
                                   "hmhotel/2.jpg",
                                   "hmhotel/35.jpg",
                                   "hmhotel/47.jpg",
-								  "hmhotel/44.jpg",
+                                  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             },
-            "KZ" : {
-                    "costo" : "850",
-                    "descripcion" : "Habitación KZ",
+            "Doble, cama matrimonial" : {
+                    "costo" : "900",
+                    "descripcion" : "Habitación doble cama matrimonial",
                     "dimensiones" : "-",
                     "servicios" : [
                                     "Tv/Cable",
@@ -106,11 +106,27 @@
                                   "hmhotel/2.jpg",
                                   "hmhotel/35.jpg",
                                   "hmhotel/47.jpg",
-								  "hmhotel/44.jpg",
+                                  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             },
-            "Vista al Mar" : {
-                    "costo" : "1,190",
+            "King Size" : {
+                    "costo" : "900",
+                    "descripcion" : "Habitación King Size",
+                    "dimensiones" : "-",
+                    "servicios" : [
+                                    "Tv/Cable",
+                                    "A/ac"
+                                  ],
+                    "icon": "hmhotel/2.jpg",
+                    "imagenes" : [
+                                  "hmhotel/2.jpg",
+                                  "hmhotel/35.jpg",
+                                  "hmhotel/47.jpg",
+                                  "hmhotel/44.jpg",
+                                  "hmhotel/48.jpg"]
+            },
+            "Suite Vista al Mar" : {
+                    "costo" : "1,250",
                     "descripcion" : "Habitación con vista al mar",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -122,11 +138,11 @@
                                   "hmhotel/2.jpg",
                                   "hmhotel/35.jpg",
                                   "hmhotel/47.jpg",
-								  "hmhotel/44.jpg",
+                                  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             },
             "Master Suite" : {
-                    "costo" : "1,450",
+                    "costo" : "1,600",
                     "descripcion" : "Habitación master suite",
                     "dimensiones" : "-",
                     "servicios" : [
@@ -138,7 +154,7 @@
                                   "hmhotel/2.jpg",
                                   "hmhotel/35.jpg",
                                   "hmhotel/47.jpg",
-								  "hmhotel/44.jpg",
+				  "hmhotel/44.jpg",
                                   "hmhotel/48.jpg"]
             }	  
         },

@@ -36,7 +36,7 @@
                     <div class="size-price">Dimensiones<span><?php echo $data['dimensiones']; ?></span></div>
                 </div>
                 <div class="col-sm-3 col-md-2">
-                    <div class="size-price">Precio<span>$ <?php echo $data['costo']; ?></span>más 16% iva y 3% ish</div>
+                    <div class="size-price">Precio<span>$ <?php echo $data['costo']; ?></span>incluye impuestos</div>
                 </div>                
             </div>
             <div class="pull-right" style="margin: 25px 0px;">
