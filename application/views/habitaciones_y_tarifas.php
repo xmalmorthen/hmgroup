@@ -34,7 +34,7 @@
                                 <div class="size-price">
                                     <span style="font-size: 1.3em">Precio </span>
                                     <span style="font-size: 2.5em; font-weight: bold;">$ <?php echo $valor->costo; ?> </span>
-                                    <span style="font-size: 1em">incluye impuestos</span>
+                                    <span style="font-size: 1em">incluye impuestos *</span>
                                 </div>
                                 <div class="pull-right">
                                     <a href="<?php echo site_url('hmgroup/habitaciones_y_tarifas_detalles/' . strtolower(str_replace(' ','', $key)) . '/habitacion_' . strtolower(str_replace(' ','_', $habitacion))); ?>" class="btn btn-default">Mostrar detalles</a>
@@ -44,6 +44,8 @@
                     </div>
                 <?php } ?>
              </div>
+            <strong>* Tarifas de temporada baja. Sujeto a cambio sin previo aviso.</strong>
+            <br/><br/>
         <?php } ?>
     </div>
 </div>

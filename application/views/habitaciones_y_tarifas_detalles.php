@@ -36,9 +36,11 @@
                     <div class="size-price">Dimensiones<span><?php echo $data['dimensiones']; ?></span></div>
                 </div>
                 <div class="col-sm-3 col-md-2">
-                    <div class="size-price">Precio<span>$ <?php echo $data['costo']; ?></span>incluye impuestos</div>
+                    <div class="size-price">Precio<span>$ <?php echo $data['costo']; ?></span>incluye impuestos *</div>
                 </div>                
             </div>
+            <strong>* Tarifas de temporada baja. Sujeto a cambio sin previo aviso.</strong>
+            <br/><br/>
             <div class="pull-right" style="margin: 25px 0px;">
                 <a href="javascript:history.back();" class="btn btn-default">Regresar</a>
             </div>
